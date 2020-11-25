@@ -6,10 +6,10 @@ A 3D-printable upper reciever and barrel shroud set for .22 LR conversion/dedica
 Based off of DangerCat5's Revision 6 (2019), which is based off of DangerCo's Revision 5 (2018), which is based off of Gil's Revision 4 (2013).
 
 ### Authors:
-nguyenkvvn (Daichi - _2020_)
-DangerCat5 (Revision 6 - _2019_)
-DangerCo (Revision 5 - _2018_)
-Gil (Revision 4 - _2013_)
+* nguyenkvvn (Daichi - _2020_)
+* DangerCat5 (Revision 6 - _2019_)
+* DangerCo (Revision 5 - _2018_)
+* Gil (Revision 4 - _2013_)
 
 ## Materials Required
 You will need a set of each below for each reciever you make.
@@ -51,12 +51,13 @@ If you are opting to use your own barrel shroud:
 8. Assemble the barrel nut.
 9. Install the barrel shroud.
 
-If you opted to use the Daichi barrel shroud, follow these steps:
-10. Slide the shroud over the barrel nut. Gently file the inside of the shroud and the barrel nut if it does not mate easily. Do not force the shroud on- it should be snug and tight, but not overbearingly so.
-11. Align the "fins" of the shroud against the upper reciever. The reciever and shroud should begin to touch each other, and there should be no gaps on the upper rail.
-12. Using the M5 tap, tap the SIX holes for the M5 screws on the left, right, and bottom of the shroud, into the barrel nut. Go all the way through the barrel nut.
-13. If using a drill, drill a 3mm to 4mm hole for the M5 screws into the barrel nut. Go through the barrel nut.
-14. Tighten down the M5 x 8mm screws into the shroud and barrel nut. You are done.
+If you opted to use the Daichi barrel shroud, continue with these steps:
+
+1. Slide the shroud over the barrel nut. Gently file the inside of the shroud and the barrel nut if it does not mate easily. Do not force the shroud on- it should be snug and tight, but not overbearingly so.
+2. Align the "fins" of the shroud against the upper reciever. The reciever and shroud should begin to touch each other, and there should be no gaps on the upper rail.
+3. Using the M5 tap, tap the SIX holes for the M5 screws on the left, right, and bottom of the shroud, into the barrel nut. Go all the way through the barrel nut.
+4. If using a drill, drill a 3mm to 4mm hole for the M5 screws into the barrel nut. Go through the barrel nut.
+5. Tighten down the M5 x 8mm screws into the shroud and barrel nut. You are done.
 
 ## Printing Tips
 * The preferred temperature and flow rate is 55mm/s and 225 C for maximum durability and layer bonding.
