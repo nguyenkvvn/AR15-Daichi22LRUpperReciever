@@ -64,5 +64,10 @@ If you opted to use the Daichi barrel shroud, continue with these steps:
 * Strongly recommend IRONING ON for the clean look
 * Tree supports make clean-up much easier.
 
+## Revision History
+
+**v0.01 Private Beta** 11/25/20
+- Initial commit
+
 ## License
 Creative Commons - Attribution license
