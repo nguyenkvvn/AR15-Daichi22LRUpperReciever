@@ -40,7 +40,7 @@ If you are opting to use your own barrel shroud:
 1. Print your items in the following orientation:
 * _Upper Reciever_ - long side up, threads pointing upwards
 * _Barrel Nut Collar_ - (Print only if you want to use the Daichi shroud), print thread sides pointing up
-* _Barrel Shroud_ - (Print only if you want to use the Daichi shroud), long side up, front-end (shorter rail) pointing DOWNWARDS
+* _Barrel Shroud_ - (Print only if you want to use the Daichi shroud), long side up, front-end (barrel) pointing DOWNWARDS
 
 2. Remove all the supports.
 3. Use the pipe reamer to chamfer the inside threads of the (printed) barrel nut collar by about three gentle rotations.
@@ -65,6 +65,13 @@ If you opted to use the Daichi barrel shroud, continue with these steps:
 * Tree supports make clean-up much easier.
 
 ## Revision History
+
+**v0.03 Private Beta** 1/3/21
+- Revised README
+
+**v0.02 Private Beta** 12/11/20
+- Removed the dust cover attachment
+- Addressed some fitment issues
 
 **v0.01 Private Beta** 11/25/20
 - Initial commit
