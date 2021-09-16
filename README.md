@@ -66,6 +66,13 @@ If you opted to use the Daichi barrel shroud, continue with these steps:
 
 ## Revision History
 
+**v1.01 Private Beta** 1/3/21
+- Added 6.35in model
+- Added 4.50in model
+
+**v1.00 Public Release** 1/3/21
+- Promoted v0.03 to v1.00
+
 **v0.03 Private Beta** 1/3/21
 - Revised README
 
